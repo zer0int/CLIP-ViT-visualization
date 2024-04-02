@@ -1,5 +1,6 @@
-# CLIP-ViT-Visualization
+![generate-some-vit-viz](https://github.com/zer0int/CLIP-ViT-visualization/assets/132047210/6399dc8d-9990-460c-866c-81ef0a25db05)
 
+# CLIP-ViT-Visualization
 Standing on the shoulders of giants:
 - Based on [github.com/hamidkazemi22/vit-visualization](https://github.com/hamidkazemi22/vit-visualization)
 - This repo is a lightweight, CLIP ViT feature visualization only, implementation thereof.
