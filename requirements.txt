@@ -1,0 +1,6 @@
+einops
+numpy
+regex
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+torchvision
+git+https://github.com/openai/CLIP.git
