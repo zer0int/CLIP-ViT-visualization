@@ -195,7 +195,7 @@ def main():
     
     # Set to "True" to make the results deterministic via torch.backends.cudnn.deterministic; False to get randomly different image of same feature.
     # CURRENTLY DOESNT WORK! LEAVE AT FALSE!
-    use_fixed_random_seed = True
+    use_fixed_random_seed = False
 
     if generate_multi:
         generate_visualizations(model, clipname, layer_range_str, feature_range_str, image_size, tv, lr, steps, print_every, save_every, saver, coefficient, use_fixed_random_seed)
