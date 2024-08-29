@@ -14,9 +14,7 @@ Standing on the shoulders of giants:
 - Configure: model, optimizer, single-feature vs. multi-feature/layer, intermediate steps, ...
 - From the console, use "python run_visualization.py"
 - Saves output in neatly organized and named way (subfolders)
-
-- Work in progress
-- Currently non-deterministic. A "rose neuron" gets you a rose; but a slightly different one each time.
+- 29-AUG-204: Added script for deterministic results.
 
 
 ## Warning about CLIP feature visualizations
